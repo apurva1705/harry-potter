@@ -1,0 +1,13 @@
+.thing1{
+  width: 40%;
+  margin: center;
+  display: flex;
+}
+.thing2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.thing3{
+  height: 280px;
+}
